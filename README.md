@@ -1,4 +1,4 @@
-#Weather Simulator
+# Weather Simulator
 
 Weather simulator I created in 2015. Run World.java to execute the program.
 
