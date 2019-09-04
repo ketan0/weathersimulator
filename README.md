@@ -1,6 +1,6 @@
 # Weather Simulator
 
-NOTE: This code is from a high school computer science project in 2016--not reflective of my current coding style standards.
+NOTE: This code is from a high school computer science project in 2015--not reflective of my current coding style standards.
 
 Weather simulator I created in 2015. Run World.java to execute the program.
 
